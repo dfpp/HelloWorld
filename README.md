@@ -1,5 +1,2 @@
-# HelloWorld
-Welcome to DFPP!
-① Clone the code and try to create your branch
-② Update your profile
-③ Merge branches and make them visible to others
+# 郝谱合
+我是郝谱合，大三学生，目前的研究方向是基于区块链的数据共享方法
